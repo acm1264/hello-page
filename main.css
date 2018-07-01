@@ -1,0 +1,23 @@
+/*style for the main page*/
+
+/*hello name style*/
+#nameDisplay {
+    text-align: center;
+    color: green;
+}
+
+/*instructions on submission style*/
+#instructions {
+    text-align: center;
+    color: grey;
+}
+
+/*stype for text box and button for input*/
+#inputArea {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    align-content: space-around;
+}
+
