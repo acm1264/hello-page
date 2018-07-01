@@ -11,5 +11,5 @@ function validateName () {
     //where the text is only updated for a valid name
     if (!/[^a-z\'\ ]/gi.test(name)){
         $("#nameDisplay").text("Hello " + name + "!");
-    }
-}
+    };
+};
