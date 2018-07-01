@@ -2,4 +2,3 @@
 //the inputted name is valid using Regexp and returning the 
 //appropriate result
 
-document.ready
